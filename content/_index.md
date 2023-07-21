@@ -218,7 +218,7 @@ sections:
       text: |-
         Institut für Linguistik <br>
         Abteilung Computerlinguistik <br>
-        Gebäude 23.21. Etage 04 Raum 101 <br>
+        Gebäude 23.21. Etage 4 Raum 101 <br>
         Heinrich-Heine-Universität Düsseldorf <br>
         Universitätsstr. 1 <br>
         D-40225 Duesseldorf, Germany
