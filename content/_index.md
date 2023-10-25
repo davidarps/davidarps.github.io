@@ -19,7 +19,7 @@ sections:
         - **July 2023** Attending the ESSAI 2023 Summer School in Ljubljana, Slovenia
         - **July 2023** Gave the address of the graduates at the graduation ceremony of the Faculty of Arts and Humanities at HHU
         - **March 2023** Presented parts of my MA thesis at the DGfS [CL-Postersession](https://dgfs2023.uni-koeln.de/programm/cl-postersession/) in Cologne, Germany
-        - **December 2022:** Presented our EMNLP 2023 Findings paper on [Probing Neural Language Models for Constituency Structure of English nonsense sentences](https://aclanthology.org/2022.findings-emnlp.502/) at the BlackboxNLP Workshp in Abu Dhabi, UAE. 
+        - **December 2022:** Presented our EMNLP 2022 Findings paper on [Probing Neural Language Models for Constituency Structure of English nonsense sentences](https://aclanthology.org/2022.findings-emnlp.502/) at the BlackboxNLP Workshp in Abu Dhabi, UAE. 
     design:
       columns: '2'
 
