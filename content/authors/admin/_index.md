@@ -58,9 +58,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/davidarps
-  #- icon: linkedin
-  #  icon_pack: fab
-  #  link: https://www.linkedin.com/
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/david-arps-603b28286
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -75,7 +75,8 @@ email: ''
 highlight_name: true
 ---
 
-I am a PhD student in Computational Linguistics at HHU Düsseldorf, where I am mainly working on exploring the linguistic knowledge of different kinds of language models.  
-My first advisor is [Prof. Dr. Laura Kallmeyer](https://user.phil.hhu.de/kallmeyer/).
+I am a PhD student in Computational Linguistics at HHU Düsseldorf, where my research focuses on exploring the linguistic knowledge of different kinds of language models.  
+Besides that, I teach in the [Department of Computational Linguistics](https://studycl.phil.hhu.de/).
+My advisors are [Laura Kallmeyer](https://user.phil.hhu.de/kallmeyer/) and [Hassan Sajjad](https://hsajjad.github.io/).
 
 {style="text-align: justify;"}
