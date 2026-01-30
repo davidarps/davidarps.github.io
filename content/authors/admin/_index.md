@@ -26,9 +26,9 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Interpretability of neural language models
-  - Computational Linguistics and Natural Language Processing
-  - Linguistic Theory
+  - Structure-inducing Language Models
+  - Linguistic Evaluation of Language Models
+  - Interpretability of Neural Language Models
 
 # Education to show in About widget
 education:
@@ -75,8 +75,11 @@ email: ''
 highlight_name: true
 ---
 
-I am a PhD student in Computational Linguistics at HHU Düsseldorf, where my research focuses on exploring the linguistic knowledge of different kinds of language models.  
-Besides that, I teach in the [Department of Computational Linguistics](https://studycl.phil.hhu.de/).
-My advisors are [Laura Kallmeyer](https://user.phil.hhu.de/kallmeyer/) and [Hassan Sajjad](https://hsajjad.github.io/).
+I am a doctoral student in Computational Linguistics at HHU Düsseldorf. My advisors are [Laura Kallmeyer](https://user.phil.hhu.de/kallmeyer/) and [Hassan Sajjad](https://hsajjad.github.io/).
+My research is funded by the project [Inducing Syntactic Structure](https://iss.phil.hhu.de/), which investigates approaches to induce syntactic structures from language models. 
+In addition, I collaborate with the [Hypermatrix Lab](https://hypermatrix.cs.dal.ca/) at Dalhousie University, Halifax, Canada.
+
+I supervise BA and MA theses and student projects, with a particular interest in topics related to my research. If you are interested in pursuing a topic in this area, please get in touch.
+I occasionally teach in the [Department of Computational Linguistics](https://studycl.phil.hhu.de/), and have taught in the [Department of Computer Science](https://www.heicad.hhu.de/lehre/masters-programme-ai-and-data-science). 
 
 {style="text-align: justify;"}

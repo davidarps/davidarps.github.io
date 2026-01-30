@@ -16,6 +16,12 @@ sections:
     content:
       title: News
       text: |-
+        - **Ongoing** Serving as reviewer for ARR (since 2024), CONLL (2025, 2026), EACL Student Research Workshop (2026), BabyLM Challenge at CoNLL (2023)
+        - **July 2025** Attending the DeepLearn 2025 Summer School in Porto, Portugal
+        - **January 2025** Attending COLING in Abu Dhabi, UAE
+        - **October 2024** Project start for [Inducing Syntactic Structure](https://iss.phil.hhu.de/)
+        - **June 2024** Presenting [our NAACL paper](https://aclanthology.org/2024.naacl-long.433/) that substantially extends experiments from my Master Thesis
+        - **February-September 2024** Funded by the [Dialogue Systems and Machine Learning](https://www.cs.hhu.de/lehrstuehle-und-arbeitsgruppen/dialog-systems-and-machine-learning) group, with teaching and research responsibilities
         - **July 2023** Attending the ESSAI 2023 Summer School in Ljubljana, Slovenia
         - **July 2023** Gave the address of the graduates at the graduation ceremony of the Faculty of Arts and Humanities at HHU
         - **March 2023** Presented parts of my MA thesis at the DGfS [CL-Postersession](https://dgfs2023.uni-koeln.de/programm/cl-postersession/) in Cologne, Germany
